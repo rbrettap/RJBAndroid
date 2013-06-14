@@ -50,10 +50,6 @@ import com.stackmob.sdk.push.StackMobPushToken;
 import com.stackmob.sdk.api.StackMobQuery; 
 import com.stackmob.sdk.api.StackMobFile; 
 
-import com.inneractive.api.ads.InneractiveAd;
-import com.inneractive.api.ads.InneractiveAd.IaAdType;
-import com.inneractive.api.ads.InneractiveAd.IaOptionalParams;
-
 public class StackMobCalls extends Activity{
 
 	private StackMob stackmob;
